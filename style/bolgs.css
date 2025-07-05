@@ -1,4 +1,10 @@
-div{
+h3{
     background-color: aquamarine;
     padding: 15px;
+}
+p{
+    background-color: blanchedalmond;
+    padding-bottom: 30px;
+    margin:30px;
+    border:20px;
 }
